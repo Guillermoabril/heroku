@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a {
+    text-decoration: none;
+}
+
+.img-sf {
+    width: 5rem;
+}
+
+.text-b {
+    color: black !important;
+}
+
+.img-heroku {
+    width: 12rem;
+}
+
+.bg-purple {
+    background-color: blueviolet;
+}
+.img-principal-heroku {
+    width: 60rem;
+}
+
+.text-purple {
+    color: blueviolet;
+}
+
+.text-blue {
+    color: blue !important;
+}
+
+.imagenes-footer {
+    width: 6rem;
+}
+.imagenes-scala {
+    width: 4rem;
+}
